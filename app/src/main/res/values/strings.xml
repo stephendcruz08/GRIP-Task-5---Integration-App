@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Integrationapp</string>
+    <string name="facebook_app_id">3172215643099162 </string>
+    <string name="fb_login_protocol_scheme">fb3172215643099162</string>
+    <string name="facebook_client_token">259190cf044bd09ea2f0df75d1d81bc1 </string>
+
+
+</resources>
